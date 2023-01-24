@@ -1,0 +1,1 @@
+{"name":"Local: goodSets","url":"/Users/radha/Desktop/Number Thory/coding-ninjas_NT1/assignment/goodSets.cpp","tests":[{"id":1673091970660,"input":"2\n2\n1 2\n3\n6 2 3","output":"3\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/radha/Desktop/Number Thory/coding-ninjas_NT1/assignment/goodSets.cpp","group":"local","local":true}
